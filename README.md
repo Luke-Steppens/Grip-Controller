@@ -1,2 +1,2 @@
-# Grip-Controller
-This was for a first year university module. A controller made from a hand grip exerciser.
+# Topo
+a repo for my first year final project TOPO
