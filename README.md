@@ -4,5 +4,9 @@ Welcome to the repository for my GAM101 Grip Controller Project! This project fe
 
 As part of this project, I designed my first custom PCB in EasyEDA, combining hardware and software to create a functional and interactive system.
 
-This repository contains everything you need to explore or replicate the project, including schematics, code, and documentation. Whether you're into Arduino projects or PCB design, this project is a great starting point!
+This was my first repository and as so is lacking in what it contains. Later Repos will have fleshed out Devlogs, i apologise for how fragmented this one is.
+
+
+The process I took to create my project was to first create a virtual version within tinkercad.  
+
 
