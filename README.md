@@ -179,6 +179,22 @@ void loop() {
 
 ```
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <b>Biting Point GIF:</b><br>
+      <img src="https://github.com/Luke-Steppens/Grip-Controller/blob/main/Media/GIF/bitingpoint.gif?raw=true" width="200" height="434">
+    </td>
+    <td style="text-align: center;">
+      <b>Wave GIF:</b><br>
+      <img src="https://github.com/Luke-Steppens/Grip-Controller/blob/main/Media/GIF/wave.gif?raw=true" width="200" height="434">
+    </td>
+  </tr>
+</table>
 
 
+---
 
+### Conclusion
+
+This first project successfully utilizes the flex sensor and LEDs, providing a fun and hands-on test of basic circuitry and soldering techniques. Although not integrated into the game, it serves as a strong foundation for future improvements and more advanced applications.
