@@ -4,7 +4,34 @@ Welcome to the repository for my GAM101 Grip Controller Project! This project fe
 
 As part of this project, I designed my first custom PCB in EasyEDA, combining hardware and software to create a functional and interactive system.
 
-This was my first repository and as so is lacking in what it contains. Later Repos will have fleshed out Devlogs, I apologise for how fragmented this one is.
+This was my first repository and as so is lacking in what it contains. Later repositories will have fleshed out Devlogs, I apologise for how fragmented this one is.
+
+---
+
+### Parts List
+
+- **Flex Sensor** x 1  
+- **LEDs** (Red, Yellow, Green) x 6  
+- **330-ohm Resistors** x 6  
+- **33k-ohm Resistor** x 1  
+- **Jumper Wires**  
+- **Arduino Uno** x 1  
+- **Breadboard** x 1
+- **Hand Grip**
+
+### Tools Used
+
+- **Soldering Iron**  
+- **Solder**  
+- **Wire Cutters**  
+- **Multimeter** (for checking connections and voltages)   
+- **Electrical Tape** (used for attaching flex sensor to hand grip)  
+- **Tweezers** (for handling small components)  
+
+
+
+
+
 
 ---
 
